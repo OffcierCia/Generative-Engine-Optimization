@@ -84,7 +84,7 @@ Then audit [URL] and produce:
 
 5) a 30-day plan
 
-Stay specific to this niche and product. No generic SEO filler.
+Stay specific to this niche and product. No generic SEO filler. Give me an answer in English.
 
 ```
 

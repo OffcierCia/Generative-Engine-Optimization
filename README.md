@@ -32,6 +32,8 @@ GEO decides whether a model quotes you when it writes the answer.
 
 If the product ranks and ChatGPT still recommends a competitor, the gap is usually structure, extractable facts, entity consistency, and proof on other sites — not another keyword list.
 
+AEO (Answer Engine Optimization) sits next to GEO in the same pile of acronyms. People use the labels interchangeably. AEO usually means “be the extractable answer.” GEO usually means “be part of the synthesized reply, cited or recommended.” The work overlaps. The output is still an AI-written paragraph with a short source list.
+
 
 
 ---

@@ -6,13 +6,13 @@ Working notes on how to get cited inside AI answers ([ChatGPT](https://chatgpt.c
 
 
 
-This repo holds the file. Use it as a brief, not as decoration.
+This repo holds the [file](. Use it as a brief, not as decoration.
 
 
 
 **Original Author:** [DeFrens](https://t.me/defrensnews/372) 
 
-**My X:** [@officer_secret](https://twitter.com/officer_secret)
+**My X:** [@officer_secret](https://x.com/officer_secret)
 
 
 

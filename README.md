@@ -10,9 +10,9 @@ This repo holds the file. Use it as a brief, not as decoration.
 
 
 
-**Author:** [DeFrens](https://t.me/defrensnews/372) 
+**Original Author:** [DeFrens](https://t.me/defrensnews/372) 
 
-**X:** [@officer_secret](https://twitter.com/officer_secret)
+**My X:** [@officer_secret](https://twitter.com/officer_secret)
 
 
 

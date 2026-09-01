@@ -143,6 +143,10 @@ A high agent-readiness score with unquotable marketing copy still loses the answ
 
 Strong copy on a site that blocks GPTBot / PerplexityBot never enters the retrieval set.
 
+## Disclaimer
+
+These are working notes. Engines change retrieval stacks. Cloudflare’s checks and scores will move. Nothing here is a guarantee of citations, traffic, or revenue. Use judgment.
+
 ## Support
 
 If this saved you time: [Donate](github.com/OffcierCia/support)

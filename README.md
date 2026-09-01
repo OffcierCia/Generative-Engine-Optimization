@@ -10,9 +10,9 @@ This repo holds the [file](https://github.com/OffcierCia/Generative-Engine-Optim
 
 ---
 
-**Original Author:** [DeFrens](https://t.me/defrensnews/372) 
+**File Author:** [DeFrens](https://t.me/defrensnews/372) 
 
-**My X:** [@officer_secret](https://x.com/officer_secret)
+**Repo Author:** [@officer_secret](https://x.com/officer_secret)
 
 
 
@@ -149,5 +149,5 @@ These are working notes. Engines change retrieval stacks. Cloudflare’s checks 
 
 ## Support
 
-If this saved you time: [Donate](github.com/OffcierCia/support) & follow [DeFrens](https://t.me/defrensnews/372)
+If this saved you time: [Donate me](github.com/OffcierCia/support) & follow [DeFrens](https://t.me/defrensnews/372)
 ​​​​​​​​​​​​​​​​​​​​​​​​

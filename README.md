@@ -8,7 +8,7 @@ Working notes on how to get cited inside AI answers ([ChatGPT](https://chatgpt.c
 
 This repo holds the [file](https://github.com/OffcierCia/Generative-Engine-Optimization/blob/main/GEO_AI_SEO_MASTER_KNOWLEDGE_BASE_COLLIDER_EXPANDED_2026-07-19.md). Use it as a brief.
 
-
+---
 
 **Original Author:** [DeFrens](https://t.me/defrensnews/372) 
 

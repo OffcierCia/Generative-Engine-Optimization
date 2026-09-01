@@ -149,5 +149,5 @@ These are working notes. Engines change retrieval stacks. Cloudflare’s checks 
 
 ## Support
 
-If this saved you time: [Donate](github.com/OffcierCia/support)
+If this saved you time: [Donate](github.com/OffcierCia/support) & follow [DeFrens](https://t.me/defrensnews/372)
 ​​​​​​​​​​​​​​​​​​​​​​​​
